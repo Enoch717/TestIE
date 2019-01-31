@@ -43,6 +43,10 @@
       <File Name="[MS-ARIA]-180828.pdf" Type="PDF" />
       <File Name="[MS-ARIA]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="2.6" Class="None">
+      <File Name="[MS-ARIA]-190114.pdf" Type="PDF" />
+      <File Name="[MS-ARIA]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-CANVAS2D">
     <Revision Date="2016-03-22" Version="1.0" Class="New" />
@@ -74,6 +78,10 @@
       <File Name="[MS-CANVAS2D]-180828.pdf" Type="PDF" />
       <File Name="[MS-CANVAS2D]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.1" Class="None">
+      <File Name="[MS-CANVAS2D]-190114.pdf" Type="PDF" />
+      <File Name="[MS-CANVAS2D]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-CORE-AAM">
     <Revision Date="2018-06-05" Version="1.0" Class="New">
@@ -83,6 +91,10 @@
     <Revision Date="2018-08-28" Version="1.0" Class="None">
       <File Name="[MS-CORE-AAM]-180828.pdf" Type="PDF" />
       <File Name="[MS-CORE-AAM]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-CORE-AAM]-190114.pdf" Type="PDF" />
+      <File Name="[MS-CORE-AAM]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-CORS">
@@ -119,6 +131,10 @@
       <File Name="[MS-CORS]-180828.pdf" Type="PDF" />
       <File Name="[MS-CORS]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="2.2" Class="None">
+      <File Name="[MS-CORS]-190114.pdf" Type="PDF" />
+      <File Name="[MS-CORS]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-CORSXF">
     <Revision Date="2014-07-16" Version="1.0" Class="New" />
@@ -150,6 +166,10 @@
       <File Name="[MS-CORSXF]-180828.pdf" Type="PDF" />
       <File Name="[MS-CORSXF]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="2.1" Class="None">
+      <File Name="[MS-CORSXF]-190114.pdf" Type="PDF" />
+      <File Name="[MS-CORSXF]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-CSP2">
     <Revision Date="2017-04-25" Version="1.0" Class="New">
@@ -172,8 +192,17 @@
       <File Name="[MS-CSP2]-180828.pdf" Type="PDF" />
       <File Name="[MS-CSP2]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-CSP2]-190114.pdf" Type="PDF" />
+      <File Name="[MS-CSP2]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
-  <Book Name="MS-CSS-FONTS-3" />
+  <Book Name="MS-CSS-FONTS-3">
+    <Revision Date="2019-01-14" Version="1.0" Class="New">
+      <File Name="[MS-CSS-FONTS-3]-190114.pdf" Type="PDF" />
+      <File Name="[MS-CSS-FONTS-3]-190114.docx" Type="DOCX" />
+    </Revision>
+  </Book>
   <Book Name="MS-CSS21">
     <Revision Date="2010-02-24" Version="0.1" Class="New" />
     <Revision Date="2010-03-17" Version="0.2" Class="Minor" />
@@ -219,6 +248,10 @@
       <File Name="[MS-CSS21]-180828.pdf" Type="PDF" />
       <File Name="[MS-CSS21]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="6.3" Class="None">
+      <File Name="[MS-CSS21]-190114.pdf" Type="PDF" />
+      <File Name="[MS-CSS21]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-CSS21E">
     <Revision Date="2010-03-26" Version="1.0" Class="New" />
@@ -258,17 +291,29 @@
       <File Name="[MS-CSS21E]-180828.pdf" Type="PDF" />
       <File Name="[MS-CSS21E]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.4" Class="None">
+      <File Name="[MS-CSS21E]-190114.pdf" Type="PDF" />
+      <File Name="[MS-CSS21E]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-CSS3-FONTS">
     <Revision Date="2018-11-27" Version="1.0" Class="New">
       <File Name="[MS-CSS3-FONTS]-181127.pdf" Type="PDF" />
       <File Name="[MS-CSS3-FONTS]-181127.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-CSS3-FONTS]-190114.pdf" Type="PDF" />
+      <File Name="[MS-CSS3-FONTS]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-CSS3-UI">
     <Revision Date="2018-11-27" Version="1.0" Class="New">
       <File Name="[MS-CSS3-UI]-181127.pdf" Type="PDF" />
       <File Name="[MS-CSS3-UI]-181127.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-CSS3-UI]-190114.pdf" Type="PDF" />
+      <File Name="[MS-CSS3-UI]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-CSS3COLR">
@@ -305,6 +350,10 @@
       <File Name="[MS-CSS3COLR]-180828.pdf" Type="PDF" />
       <File Name="[MS-CSS3COLR]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="3.1" Class="None">
+      <File Name="[MS-CSS3COLR]-190114.pdf" Type="PDF" />
+      <File Name="[MS-CSS3COLR]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-CSS3MQ">
     <Revision Date="2013-06-26" Version="1.0" Class="New" />
@@ -338,6 +387,10 @@
       <File Name="[MS-CSS3MQ]-180828.pdf" Type="PDF" />
       <File Name="[MS-CSS3MQ]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="2.1" Class="None">
+      <File Name="[MS-CSS3MQ]-190114.pdf" Type="PDF" />
+      <File Name="[MS-CSS3MQ]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-CSS3NS">
     <Revision Date="2014-07-01" Version="1.0" Class="New" />
@@ -351,6 +404,7 @@
     <Revision Date="2018-02-22" Version="2.2" Class="None" />
     <Revision Date="2018-03-23" Version="2.2" Class="None" />
     <Revision Date="2018-08-28" Version="2.2" Class="None" />
+    <Revision Date="2019-01-14" Version="2.2" Class="None" />
   </Book>
   <Book Name="MS-CSS3SEL">
     <Revision Date="2014-07-01" Version="1.0" Class="New" />
@@ -364,6 +418,7 @@
     <Revision Date="2018-02-22" Version="2.2" Class="None" />
     <Revision Date="2018-03-23" Version="2.2" Class="None" />
     <Revision Date="2018-08-28" Version="2.2" Class="None" />
+    <Revision Date="2019-01-14" Version="2.2" Class="None" />
   </Book>
   <Book Name="MS-CSSATTR">
     <Revision Date="2014-07-01" Version="1.0" Class="New" />
@@ -377,6 +432,7 @@
     <Revision Date="2018-02-22" Version="2.2" Class="None" />
     <Revision Date="2018-03-23" Version="2.2" Class="None" />
     <Revision Date="2018-08-28" Version="2.2" Class="None" />
+    <Revision Date="2019-01-14" Version="2.2" Class="None" />
   </Book>
   <Book Name="MS-DOM1">
     <Revision Date="2010-03-17" Version="0.1" Class="New" />
@@ -418,6 +474,10 @@
       <File Name="[MS-DOM1]-180828.pdf" Type="PDF" />
       <File Name="[MS-DOM1]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.3" Class="None">
+      <File Name="[MS-DOM1]-190114.pdf" Type="PDF" />
+      <File Name="[MS-DOM1]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-DOM1X">
     <Revision Date="2010-03-17" Version="0.1" Class="New" />
@@ -456,6 +516,10 @@
     <Revision Date="2018-08-28" Version="5.2" Class="None">
       <File Name="[MS-DOM1X]-180828.pdf" Type="PDF" />
       <File Name="[MS-DOM1X]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="5.2" Class="None">
+      <File Name="[MS-DOM1X]-190114.pdf" Type="PDF" />
+      <File Name="[MS-DOM1X]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-DOM2C">
@@ -497,6 +561,10 @@
       <File Name="[MS-DOM2C]-180828.pdf" Type="PDF" />
       <File Name="[MS-DOM2C]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.2" Class="None">
+      <File Name="[MS-DOM2C]-190114.pdf" Type="PDF" />
+      <File Name="[MS-DOM2C]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-DOM2CE">
     <Revision Date="2010-03-26" Version="1.0" Class="New" />
@@ -535,6 +603,10 @@
     <Revision Date="2018-08-28" Version="5.2" Class="None">
       <File Name="[MS-DOM2CE]-180828.pdf" Type="PDF" />
       <File Name="[MS-DOM2CE]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="5.2" Class="None">
+      <File Name="[MS-DOM2CE]-190114.pdf" Type="PDF" />
+      <File Name="[MS-DOM2CE]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-DOM2CEX">
@@ -576,6 +648,10 @@
       <File Name="[MS-DOM2CEX]-180828.pdf" Type="PDF" />
       <File Name="[MS-DOM2CEX]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.4" Class="None">
+      <File Name="[MS-DOM2CEX]-190114.pdf" Type="PDF" />
+      <File Name="[MS-DOM2CEX]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-DOM2CX">
     <Revision Date="2010-03-17" Version="0.1" Class="New" />
@@ -614,6 +690,10 @@
     <Revision Date="2018-08-28" Version="5.3" Class="None">
       <File Name="[MS-DOM2CX]-180828.pdf" Type="PDF" />
       <File Name="[MS-DOM2CX]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="5.3" Class="None">
+      <File Name="[MS-DOM2CX]-190114.pdf" Type="PDF" />
+      <File Name="[MS-DOM2CX]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-DOM2E">
@@ -655,6 +735,10 @@
       <File Name="[MS-DOM2E]-180828.pdf" Type="PDF" />
       <File Name="[MS-DOM2E]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.3" Class="None">
+      <File Name="[MS-DOM2E]-190114.pdf" Type="PDF" />
+      <File Name="[MS-DOM2E]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-DOM2EE">
     <Revision Date="2010-09-08" Version="0.1" Class="New" />
@@ -690,6 +774,10 @@
     <Revision Date="2018-08-28" Version="4.1" Class="None">
       <File Name="[MS-DOM2EE]-180828.pdf" Type="PDF" />
       <File Name="[MS-DOM2EE]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="4.1" Class="None">
+      <File Name="[MS-DOM2EE]-190114.pdf" Type="PDF" />
+      <File Name="[MS-DOM2EE]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-DOM2H">
@@ -732,6 +820,10 @@
       <File Name="[MS-DOM2H]-180828.pdf" Type="PDF" />
       <File Name="[MS-DOM2H]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.3" Class="None">
+      <File Name="[MS-DOM2H]-190114.pdf" Type="PDF" />
+      <File Name="[MS-DOM2H]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-DOM2S">
     <Revision Date="2010-03-17" Version="0.1" Class="New" />
@@ -773,6 +865,10 @@
       <File Name="[MS-DOM2S]-180828.pdf" Type="PDF" />
       <File Name="[MS-DOM2S]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.2" Class="None">
+      <File Name="[MS-DOM2S]-190114.pdf" Type="PDF" />
+      <File Name="[MS-DOM2S]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-DOM2TR">
     <Revision Date="2010-09-08" Version="0.1" Class="New" />
@@ -808,6 +904,10 @@
     <Revision Date="2018-08-28" Version="5.1" Class="None">
       <File Name="[MS-DOM2TR]-180828.pdf" Type="PDF" />
       <File Name="[MS-DOM2TR]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="5.1" Class="None">
+      <File Name="[MS-DOM2TR]-190114.pdf" Type="PDF" />
+      <File Name="[MS-DOM2TR]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-DOM2V">
@@ -847,6 +947,10 @@
     <Revision Date="2018-08-28" Version="5.1" Class="None">
       <File Name="[MS-DOM2V]-180828.pdf" Type="PDF" />
       <File Name="[MS-DOM2V]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="5.1" Class="None">
+      <File Name="[MS-DOM2V]-190114.pdf" Type="PDF" />
+      <File Name="[MS-DOM2V]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-DOM3C">
@@ -888,6 +992,10 @@
       <File Name="[MS-DOM3C]-180828.pdf" Type="PDF" />
       <File Name="[MS-DOM3C]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.3" Class="None">
+      <File Name="[MS-DOM3C]-190114.pdf" Type="PDF" />
+      <File Name="[MS-DOM3C]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-DOM4">
     <Revision Date="2016-03-22" Version="1.0" Class="New" />
@@ -919,6 +1027,10 @@
       <File Name="[MS-DOM4]-180828.pdf" Type="PDF" />
       <File Name="[MS-DOM4]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.2" Class="None">
+      <File Name="[MS-DOM4]-190114.pdf" Type="PDF" />
+      <File Name="[MS-DOM4]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-ECMA402">
     <Revision Date="2014-07-01" Version="1.0" Class="New" />
@@ -932,6 +1044,7 @@
     <Revision Date="2018-02-22" Version="2.2" Class="None" />
     <Revision Date="2018-03-23" Version="2.2" Class="None" />
     <Revision Date="2018-08-28" Version="2.2" Class="None" />
+    <Revision Date="2019-01-14" Version="2.2" Class="None" />
   </Book>
   <Book Name="MS-ECMA404">
     <Revision Date="2017-03-14" Version="1.0" Class="New">
@@ -951,6 +1064,7 @@
       <File Name="[MS-ECMA404]-180323.docx" Type="DOCX" />
     </Revision>
     <Revision Date="2018-08-28" Version="1.0" Class="None" />
+    <Revision Date="2019-01-14" Version="1.0" Class="None" />
   </Book>
   <Book Name="MS-ELTRAV">
     <Revision Date="2014-07-01" Version="1.0" Class="New" />
@@ -964,6 +1078,7 @@
     <Revision Date="2018-02-22" Version="2.2" Class="None" />
     <Revision Date="2018-03-23" Version="2.2" Class="None" />
     <Revision Date="2018-08-28" Version="2.2" Class="None" />
+    <Revision Date="2019-01-14" Version="2.2" Class="None" />
   </Book>
   <Book Name="MS-EME">
     <Revision Date="2018-03-05" Version="1.0" Class="New">
@@ -977,6 +1092,10 @@
     <Revision Date="2018-08-28" Version="1.0" Class="None">
       <File Name="[MS-EME]-180828.pdf" Type="PDF" />
       <File Name="[MS-EME]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-EME]-190114.pdf" Type="PDF" />
+      <File Name="[MS-EME]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-EPUB3">
@@ -999,6 +1118,10 @@
     <Revision Date="2018-08-28" Version="1.0" Class="None">
       <File Name="[MS-EPUB3]-180828.pdf" Type="PDF" />
       <File Name="[MS-EPUB3]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-EPUB3]-190114.pdf" Type="PDF" />
+      <File Name="[MS-EPUB3]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-ES2016">
@@ -1030,6 +1153,10 @@
       <File Name="[MS-ES2016]-180828.pdf" Type="PDF" />
       <File Name="[MS-ES2016]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-ES2016]-190114.pdf" Type="PDF" />
+      <File Name="[MS-ES2016]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-ES2017">
     <Revision Date="2017-12-05" Version="1.0" Class="New">
@@ -1052,6 +1179,10 @@
       <File Name="[MS-ES2017]-180828.pdf" Type="PDF" />
       <File Name="[MS-ES2017]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-ES2017]-190114.pdf" Type="PDF" />
+      <File Name="[MS-ES2017]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-ES2017-INTL">
     <Revision Date="2017-12-05" Version="1.0" Class="New">
@@ -1070,17 +1201,29 @@
       <File Name="[MS-ES2017-INTL]-180828.pdf" Type="PDF" />
       <File Name="[MS-ES2017-INTL]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-ES2017-INTL]-190114.pdf" Type="PDF" />
+      <File Name="[MS-ES2017-INTL]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-ES2018">
     <Revision Date="2018-11-27" Version="1.0" Class="New">
       <File Name="[MS-ES2018]-181127.pdf" Type="PDF" />
       <File Name="[MS-ES2018]-181127.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-ES2018]-190114.pdf" Type="PDF" />
+      <File Name="[MS-ES2018]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-ES2018-INTL">
     <Revision Date="2018-11-27" Version="1.0" Class="New">
       <File Name="[MS-ES2018-INTL]-181127.pdf" Type="PDF" />
       <File Name="[MS-ES2018-INTL]-181127.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-ES2018-INTL]-190114.pdf" Type="PDF" />
+      <File Name="[MS-ES2018-INTL]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-ES3">
@@ -1121,6 +1264,10 @@
       <File Name="[MS-ES3]-180828.pdf" Type="PDF" />
       <File Name="[MS-ES3]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="4.5" Class="None">
+      <File Name="[MS-ES3]-190114.pdf" Type="PDF" />
+      <File Name="[MS-ES3]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-ES3EX">
     <Revision Date="2010-03-26" Version="1.0" Class="New" />
@@ -1160,6 +1307,10 @@
     <Revision Date="2018-08-28" Version="4.4" Class="None">
       <File Name="[MS-ES3EX]-180828.pdf" Type="PDF" />
       <File Name="[MS-ES3EX]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="4.4" Class="None">
+      <File Name="[MS-ES3EX]-190114.pdf" Type="PDF" />
+      <File Name="[MS-ES3EX]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-ES5">
@@ -1202,6 +1353,10 @@
       <File Name="[MS-ES5]-180828.pdf" Type="PDF" />
       <File Name="[MS-ES5]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="4.3" Class="None">
+      <File Name="[MS-ES5]-190114.pdf" Type="PDF" />
+      <File Name="[MS-ES5]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-ES51">
     <Revision Date="2014-07-01" Version="1.0" Class="New" />
@@ -1215,6 +1370,7 @@
     <Revision Date="2018-02-22" Version="2.2" Class="None" />
     <Revision Date="2018-03-23" Version="2.2" Class="None" />
     <Revision Date="2018-08-28" Version="2.2" Class="None" />
+    <Revision Date="2019-01-14" Version="2.2" Class="None" />
   </Book>
   <Book Name="MS-ES5EX">
     <Revision Date="2010-09-08" Version="0.1" Class="New" />
@@ -1253,6 +1409,10 @@
     <Revision Date="2018-08-28" Version="4.3" Class="None">
       <File Name="[MS-ES5EX]-180828.pdf" Type="PDF" />
       <File Name="[MS-ES5EX]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="4.3" Class="None">
+      <File Name="[MS-ES5EX]-190114.pdf" Type="PDF" />
+      <File Name="[MS-ES5EX]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-ES6">
@@ -1294,6 +1454,10 @@
       <File Name="[MS-ES6]-180828.pdf" Type="PDF" />
       <File Name="[MS-ES6]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.1" Class="None">
+      <File Name="[MS-ES6]-190114.pdf" Type="PDF" />
+      <File Name="[MS-ES6]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-ESI2">
     <Revision Date="2015-12-07" Version="1.0" Class="New" />
@@ -1326,6 +1490,10 @@
       <File Name="[MS-ESI2]-180828.pdf" Type="PDF" />
       <File Name="[MS-ESI2]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.1" Class="None">
+      <File Name="[MS-ESI2]-190114.pdf" Type="PDF" />
+      <File Name="[MS-ESI2]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-GEOLOC">
     <Revision Date="2014-03-31" Version="1.0" Class="New" />
@@ -1340,6 +1508,7 @@
     <Revision Date="2018-02-22" Version="2.2" Class="None" />
     <Revision Date="2018-03-23" Version="2.2" Class="None" />
     <Revision Date="2018-08-28" Version="2.2" Class="None" />
+    <Revision Date="2019-01-14" Version="2.2" Class="None" />
   </Book>
   <Book Name="MS-HIREST">
     <Revision Date="2014-07-01" Version="1.0" Class="New" />
@@ -1353,6 +1522,7 @@
     <Revision Date="2018-02-22" Version="2.2" Class="None" />
     <Revision Date="2018-03-23" Version="2.2" Class="None" />
     <Revision Date="2018-08-28" Version="2.2" Class="None" />
+    <Revision Date="2019-01-14" Version="2.2" Class="None" />
   </Book>
   <Book Name="MS-HTML401">
     <Revision Date="2010-02-24" Version="0.1" Class="New" />
@@ -1395,6 +1565,10 @@
       <File Name="[MS-HTML401]-180828.pdf" Type="PDF" />
       <File Name="[MS-HTML401]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.3" Class="None">
+      <File Name="[MS-HTML401]-190114.pdf" Type="PDF" />
+      <File Name="[MS-HTML401]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-HTML401E">
     <Revision Date="2010-03-26" Version="1.0" Class="New" />
@@ -1436,6 +1610,10 @@
       <File Name="[MS-HTML401E]-180828.pdf" Type="PDF" />
       <File Name="[MS-HTML401E]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.3" Class="None">
+      <File Name="[MS-HTML401E]-190114.pdf" Type="PDF" />
+      <File Name="[MS-HTML401E]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-HTML5">
     <Revision Date="2015-04-17" Version="1.0" Class="New" />
@@ -1471,6 +1649,10 @@
       <File Name="[MS-HTML5]-180828.pdf" Type="PDF" />
       <File Name="[MS-HTML5]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.6" Class="Minor">
+      <File Name="[MS-HTML5]-190114.pdf" Type="PDF" />
+      <File Name="[MS-HTML5]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-HTML51">
     <Revision Date="2017-04-25" Version="1.0" Class="New">
@@ -1497,6 +1679,10 @@
       <File Name="[MS-HTML51]-180828.pdf" Type="PDF" />
       <File Name="[MS-HTML51]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.1" Class="None">
+      <File Name="[MS-HTML51]-190114.pdf" Type="PDF" />
+      <File Name="[MS-HTML51]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-HTML52">
     <Revision Date="2018-06-05" Version="1.0" Class="New">
@@ -1506,6 +1692,10 @@
     <Revision Date="2018-08-28" Version="1.0" Class="None">
       <File Name="[MS-HTML52]-180828.pdf" Type="PDF" />
       <File Name="[MS-HTML52]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-HTML52]-190114.pdf" Type="PDF" />
+      <File Name="[MS-HTML52]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-HTML5E">
@@ -1536,6 +1726,10 @@
     <Revision Date="2018-08-28" Version="1.3" Class="None">
       <File Name="[MS-HTML5E]-180828.pdf" Type="PDF" />
       <File Name="[MS-HTML5E]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.3" Class="None">
+      <File Name="[MS-HTML5E]-190114.pdf" Type="PDF" />
+      <File Name="[MS-HTML5E]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-IEDOCO">
@@ -1606,6 +1800,10 @@
       <File Name="[MS-IEDOCO]-181127.pdf" Type="PDF" />
       <File Name="[MS-IEDOCO]-181127.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="4.6" Class="None">
+      <File Name="[MS-IEDOCO]-190114.pdf" Type="PDF" />
+      <File Name="[MS-IEDOCO]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-IESTANDLP">
     <Revision Date="2016-11-02" Version="1.0" Class="New" />
@@ -1620,6 +1818,7 @@
     <Revision Date="2018-06-05" Version="1.0" Class="None" />
     <Revision Date="2018-08-28" Version="1.0" Class="None" />
     <Revision Date="2018-11-27" Version="1.0" Class="None" />
+    <Revision Date="2019-01-14" Version="1.0" Class="None" />
   </Book>
   <Book Name="MS-INDEXDB">
     <Revision Date="2015-07-07" Version="1.0" Class="New" />
@@ -1650,6 +1849,10 @@
       <File Name="[MS-INDEXDB]-180828.pdf" Type="PDF" />
       <File Name="[MS-INDEXDB]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.2" Class="None">
+      <File Name="[MS-INDEXDB]-190114.pdf" Type="PDF" />
+      <File Name="[MS-INDEXDB]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-INDEXEDDB-2">
     <Revision Date="2018-06-05" Version="1.0" Class="New">
@@ -1659,6 +1862,10 @@
     <Revision Date="2018-08-28" Version="1.0" Class="None">
       <File Name="[MS-INDEXEDDB-2]-180828.pdf" Type="PDF" />
       <File Name="[MS-INDEXEDDB-2]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-INDEXEDDB-2]-190114.pdf" Type="PDF" />
+      <File Name="[MS-INDEXEDDB-2]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-ISO10646">
@@ -1700,6 +1907,10 @@
       <File Name="[MS-ISO10646]-180828.pdf" Type="PDF" />
       <File Name="[MS-ISO10646]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.3" Class="None">
+      <File Name="[MS-ISO10646]-190114.pdf" Type="PDF" />
+      <File Name="[MS-ISO10646]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-ISO14496-10">
     <Revision Date="2015-10-22" Version="1.0" Class="New" />
@@ -1711,6 +1922,7 @@
     <Revision Date="2018-02-22" Version="1.1" Class="None" />
     <Revision Date="2018-03-23" Version="1.1" Class="None" />
     <Revision Date="2018-08-28" Version="1.1" Class="None" />
+    <Revision Date="2019-01-14" Version="1.1" Class="None" />
   </Book>
   <Book Name="MS-ISO8859">
     <Revision Date="2010-03-26" Version="1.0" Class="New" />
@@ -1750,6 +1962,10 @@
       <File Name="[MS-ISO8859]-180828.pdf" Type="PDF" />
       <File Name="[MS-ISO8859]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.3" Class="None">
+      <File Name="[MS-ISO8859]-190114.pdf" Type="PDF" />
+      <File Name="[MS-ISO8859]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-JPEG">
     <Revision Date="2014-07-01" Version="1.0" Class="New" />
@@ -1763,6 +1979,7 @@
     <Revision Date="2018-02-22" Version="2.2" Class="None" />
     <Revision Date="2018-03-23" Version="2.2" Class="None" />
     <Revision Date="2018-08-28" Version="2.2" Class="None" />
+    <Revision Date="2019-01-14" Version="2.2" Class="None" />
   </Book>
   <Book Name="MS-LONGDESC">
     <Revision Date="2015-08-11" Version="1.0" Class="New" />
@@ -1793,6 +2010,10 @@
       <File Name="[MS-LONGDESC]-180828.pdf" Type="PDF" />
       <File Name="[MS-LONGDESC]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.2" Class="None">
+      <File Name="[MS-LONGDESC]-190114.pdf" Type="PDF" />
+      <File Name="[MS-LONGDESC]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-MEDIA-SOURCE">
     <Revision Date="2017-04-25" Version="1.0" Class="New">
@@ -1814,6 +2035,10 @@
     <Revision Date="2018-08-28" Version="1.0" Class="None">
       <File Name="[MS-MEDIA-SOURCE]-180828.pdf" Type="PDF" />
       <File Name="[MS-MEDIA-SOURCE]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-MEDIA-SOURCE]-190114.pdf" Type="PDF" />
+      <File Name="[MS-MEDIA-SOURCE]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-NAVTIM">
@@ -1846,6 +2071,10 @@
     <Revision Date="2018-08-28" Version="2.1" Class="None">
       <File Name="[MS-NAVTIM]-180828.pdf" Type="PDF" />
       <File Name="[MS-NAVTIM]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="2.1" Class="None">
+      <File Name="[MS-NAVTIM]-190114.pdf" Type="PDF" />
+      <File Name="[MS-NAVTIM]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-P3P">
@@ -1886,6 +2115,10 @@
       <File Name="[MS-P3P]-180828.pdf" Type="PDF" />
       <File Name="[MS-P3P]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.0" Class="None">
+      <File Name="[MS-P3P]-190114.pdf" Type="PDF" />
+      <File Name="[MS-P3P]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-PAGEVIS">
     <Revision Date="2013-06-26" Version="1.0" Class="New" />
@@ -1918,6 +2151,10 @@
       <File Name="[MS-PAGEVIS]-180828.pdf" Type="PDF" />
       <File Name="[MS-PAGEVIS]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="2.1" Class="None">
+      <File Name="[MS-PAGEVIS]-190114.pdf" Type="PDF" />
+      <File Name="[MS-PAGEVIS]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-PDF">
     <Revision Date="2015-03-30" Version="1.0" Class="New" />
@@ -1948,6 +2185,10 @@
       <File Name="[MS-PDF]-180828.pdf" Type="PDF" />
       <File Name="[MS-PDF]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.1" Class="None">
+      <File Name="[MS-PDF]-190114.pdf" Type="PDF" />
+      <File Name="[MS-PDF]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-PERFTL">
     <Revision Date="2014-07-01" Version="1.0" Class="New" />
@@ -1961,6 +2202,7 @@
     <Revision Date="2018-02-22" Version="2.2" Class="None" />
     <Revision Date="2018-03-23" Version="2.2" Class="None" />
     <Revision Date="2018-08-28" Version="2.2" Class="None" />
+    <Revision Date="2019-01-14" Version="2.2" Class="None" />
   </Book>
   <Book Name="MS-PICSL">
     <Revision Date="2010-03-17" Version="0.1" Class="New" />
@@ -2001,6 +2243,10 @@
       <File Name="[MS-PICSL]-180828.pdf" Type="PDF" />
       <File Name="[MS-PICSL]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.1" Class="None">
+      <File Name="[MS-PICSL]-190114.pdf" Type="PDF" />
+      <File Name="[MS-PICSL]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-PICSRL">
     <Revision Date="2010-03-17" Version="0.1" Class="New" />
@@ -2039,6 +2285,10 @@
     <Revision Date="2018-08-28" Version="5.1" Class="None">
       <File Name="[MS-PICSRL]-180828.pdf" Type="PDF" />
       <File Name="[MS-PICSRL]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="5.1" Class="None">
+      <File Name="[MS-PICSRL]-190114.pdf" Type="PDF" />
+      <File Name="[MS-PICSRL]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-PICSRS">
@@ -2079,6 +2329,10 @@
       <File Name="[MS-PICSRS]-180828.pdf" Type="PDF" />
       <File Name="[MS-PICSRS]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.1" Class="None">
+      <File Name="[MS-PICSRS]-190114.pdf" Type="PDF" />
+      <File Name="[MS-PICSRS]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-PNG">
     <Revision Date="2010-03-17" Version="0.1" Class="New" />
@@ -2113,6 +2367,10 @@
       <File Name="[MS-PNG]-180828.pdf" Type="PDF" />
       <File Name="[MS-PNG]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.4" Class="None">
+      <File Name="[MS-PNG]-190114.pdf" Type="PDF" />
+      <File Name="[MS-PNG]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-POINTER">
     <Revision Date="2015-07-07" Version="1.0" Class="New" />
@@ -2142,6 +2400,10 @@
       <File Name="[MS-POINTER]-180828.pdf" Type="PDF" />
       <File Name="[MS-POINTER]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.1" Class="None">
+      <File Name="[MS-POINTER]-190114.pdf" Type="PDF" />
+      <File Name="[MS-POINTER]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-POINTERLOCK">
     <Revision Date="2017-03-14" Version="1.0" Class="New">
@@ -2163,6 +2425,10 @@
     <Revision Date="2018-08-28" Version="1.0" Class="None">
       <File Name="[MS-POINTERLOCK]-180828.pdf" Type="PDF" />
       <File Name="[MS-POINTERLOCK]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-POINTERLOCK]-190114.pdf" Type="PDF" />
+      <File Name="[MS-POINTERLOCK]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-RUBY">
@@ -2205,6 +2471,10 @@
       <File Name="[MS-RUBY]-180828.pdf" Type="PDF" />
       <File Name="[MS-RUBY]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.2" Class="None">
+      <File Name="[MS-RUBY]-190114.pdf" Type="PDF" />
+      <File Name="[MS-RUBY]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-SELAPI1">
     <Revision Date="2013-06-26" Version="1.0" Class="New" />
@@ -2238,6 +2508,10 @@
       <File Name="[MS-SELAPI1]-180828.pdf" Type="PDF" />
       <File Name="[MS-SELAPI1]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="2.1" Class="None">
+      <File Name="[MS-SELAPI1]-190114.pdf" Type="PDF" />
+      <File Name="[MS-SELAPI1]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-SRI">
     <Revision Date="2018-03-23" Version="1.0" Class="New">
@@ -2245,6 +2519,7 @@
       <File Name="[MS-SRI]-180323.docx" Type="DOCX" />
     </Revision>
     <Revision Date="2018-08-28" Version="1.0" Class="None" />
+    <Revision Date="2019-01-14" Version="1.0" Class="None" />
   </Book>
   <Book Name="MS-SVG">
     <Revision Date="2010-09-08" Version="0.1" Class="New" />
@@ -2286,6 +2561,10 @@
       <File Name="[MS-SVG]-180828.pdf" Type="PDF" />
       <File Name="[MS-SVG]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="4.3" Class="None">
+      <File Name="[MS-SVG]-190114.pdf" Type="PDF" />
+      <File Name="[MS-SVG]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-TOUCH">
     <Revision Date="2015-07-07" Version="1.0" Class="New" />
@@ -2314,6 +2593,10 @@
     <Revision Date="2018-08-28" Version="1.2" Class="None">
       <File Name="[MS-TOUCH]-180828.pdf" Type="PDF" />
       <File Name="[MS-TOUCH]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.2" Class="None">
+      <File Name="[MS-TOUCH]-190114.pdf" Type="PDF" />
+      <File Name="[MS-TOUCH]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-TTML">
@@ -2350,6 +2633,10 @@
       <File Name="[MS-TTML]-180828.pdf" Type="PDF" />
       <File Name="[MS-TTML]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="3.2" Class="None">
+      <File Name="[MS-TTML]-190114.pdf" Type="PDF" />
+      <File Name="[MS-TTML]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-USERTIM">
     <Revision Date="2014-03-31" Version="1.0" Class="New" />
@@ -2382,6 +2669,10 @@
       <File Name="[MS-USERTIM]-180828.pdf" Type="PDF" />
       <File Name="[MS-USERTIM]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="2.2" Class="None">
+      <File Name="[MS-USERTIM]-190114.pdf" Type="PDF" />
+      <File Name="[MS-USERTIM]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-WAI-ARIA-11">
     <Revision Date="2018-06-05" Version="1.0" Class="New">
@@ -2392,12 +2683,17 @@
       <File Name="[MS-WAI-ARIA-11]-180828.pdf" Type="PDF" />
       <File Name="[MS-WAI-ARIA-11]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.1" Class="None">
+      <File Name="[MS-WAI-ARIA-11]-190114.pdf" Type="PDF" />
+      <File Name="[MS-WAI-ARIA-11]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-WCAG21">
     <Revision Date="2018-08-28" Version="1.0" Class="New">
       <File Name="[MS-WCAG21]-180828.pdf" Type="PDF" />
       <File Name="[MS-WCAG21]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None" />
   </Book>
   <Book Name="MS-WEBCRYPTO">
     <Revision Date="2017-04-25" Version="1.0" Class="New">
@@ -2420,11 +2716,19 @@
       <File Name="[MS-WEBCRYPTO]-180828.pdf" Type="PDF" />
       <File Name="[MS-WEBCRYPTO]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-WEBCRYPTO]-190114.pdf" Type="PDF" />
+      <File Name="[MS-WEBCRYPTO]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-WEBDRIVER">
     <Revision Date="2018-11-27" Version="1.0" Class="New">
       <File Name="[MS-WEBDRIVER]-181127.pdf" Type="PDF" />
       <File Name="[MS-WEBDRIVER]-181127.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-WEBDRIVER]-190114.pdf" Type="PDF" />
+      <File Name="[MS-WEBDRIVER]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-WEBIDL1">
@@ -2447,6 +2751,10 @@
     <Revision Date="2018-08-28" Version="1.0" Class="None">
       <File Name="[MS-WEBIDL1]-180828.pdf" Type="PDF" />
       <File Name="[MS-WEBIDL1]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-WEBIDL1]-190114.pdf" Type="PDF" />
+      <File Name="[MS-WEBIDL1]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-WEBMSG">
@@ -2482,6 +2790,10 @@
       <File Name="[MS-WEBMSG]-180828.pdf" Type="PDF" />
       <File Name="[MS-WEBMSG]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.2" Class="None">
+      <File Name="[MS-WEBMSG]-190114.pdf" Type="PDF" />
+      <File Name="[MS-WEBMSG]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-WEBNOT">
     <Revision Date="2016-07-19" Version="1.0" Class="New">
@@ -2511,6 +2823,10 @@
     <Revision Date="2018-08-28" Version="1.0" Class="None">
       <File Name="[MS-WEBNOT]-180828.pdf" Type="PDF" />
       <File Name="[MS-WEBNOT]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-WEBNOT]-190114.pdf" Type="PDF" />
+      <File Name="[MS-WEBNOT]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-WEBSTG">
@@ -2544,6 +2860,10 @@
       <File Name="[MS-WEBSTG]-180828.pdf" Type="PDF" />
       <File Name="[MS-WEBSTG]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="2.2" Class="None">
+      <File Name="[MS-WEBSTG]-190114.pdf" Type="PDF" />
+      <File Name="[MS-WEBSTG]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-WEBSTG2">
     <Revision Date="2016-07-19" Version="1.0" Class="New">
@@ -2574,6 +2894,10 @@
       <File Name="[MS-WEBSTG2]-180828.pdf" Type="PDF" />
       <File Name="[MS-WEBSTG2]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-WEBSTG2]-190114.pdf" Type="PDF" />
+      <File Name="[MS-WEBSTG2]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-WOFF1">
     <Revision Date="2014-07-01" Version="1.0" Class="New" />
@@ -2587,6 +2911,7 @@
     <Revision Date="2018-02-22" Version="2.2" Class="None" />
     <Revision Date="2018-03-23" Version="2.2" Class="None" />
     <Revision Date="2018-08-28" Version="2.2" Class="None" />
+    <Revision Date="2019-01-14" Version="2.2" Class="None" />
   </Book>
   <Book Name="MS-WOFF2">
     <Revision Date="2018-06-05" Version="1.0" Class="New">
@@ -2596,6 +2921,10 @@
     <Revision Date="2018-08-28" Version="1.0" Class="None">
       <File Name="[MS-WOFF2]-180828.pdf" Type="PDF" />
       <File Name="[MS-WOFF2]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-WOFF2]-190114.pdf" Type="PDF" />
+      <File Name="[MS-WOFF2]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-XHTML">
@@ -2634,6 +2963,10 @@
     <Revision Date="2018-08-28" Version="4.2" Class="None">
       <File Name="[MS-XHTML]-180828.pdf" Type="PDF" />
       <File Name="[MS-XHTML]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="4.2" Class="None">
+      <File Name="[MS-XHTML]-190114.pdf" Type="PDF" />
+      <File Name="[MS-XHTML]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-XML">
@@ -2675,6 +3008,10 @@
       <File Name="[MS-XML]-180828.pdf" Type="PDF" />
       <File Name="[MS-XML]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="4.3" Class="None">
+      <File Name="[MS-XML]-190114.pdf" Type="PDF" />
+      <File Name="[MS-XML]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-XMLH">
     <Revision Date="2010-09-08" Version="0.1" Class="New" />
@@ -2712,6 +3049,10 @@
     <Revision Date="2018-08-28" Version="4.2" Class="None">
       <File Name="[MS-XMLH]-180828.pdf" Type="PDF" />
       <File Name="[MS-XMLH]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="4.2" Class="None">
+      <File Name="[MS-XMLH]-190114.pdf" Type="PDF" />
+      <File Name="[MS-XMLH]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-XMLNS">
@@ -2753,6 +3094,10 @@
       <File Name="[MS-XMLNS]-180828.pdf" Type="PDF" />
       <File Name="[MS-XMLNS]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.2" Class="None">
+      <File Name="[MS-XMLNS]-190114.pdf" Type="PDF" />
+      <File Name="[MS-XMLNS]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-XMLNSH">
     <Revision Date="2010-09-08" Version="0.1" Class="New" />
@@ -2788,6 +3133,10 @@
     <Revision Date="2018-08-28" Version="4.1" Class="None">
       <File Name="[MS-XMLNSH]-180828.pdf" Type="PDF" />
       <File Name="[MS-XMLNSH]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="4.1" Class="None">
+      <File Name="[MS-XMLNSH]-190114.pdf" Type="PDF" />
+      <File Name="[MS-XMLNSH]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-XMLSD">
@@ -2828,6 +3177,10 @@
       <File Name="[MS-XMLSD]-180828.pdf" Type="PDF" />
       <File Name="[MS-XMLSD]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="4.2" Class="None">
+      <File Name="[MS-XMLSD]-190114.pdf" Type="PDF" />
+      <File Name="[MS-XMLSD]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-XMLSS">
     <Revision Date="2010-09-08" Version="0.1" Class="New" />
@@ -2864,6 +3217,10 @@
     <Revision Date="2018-08-28" Version="4.2" Class="None">
       <File Name="[MS-XMLSS]-180828.pdf" Type="PDF" />
       <File Name="[MS-XMLSS]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="4.2" Class="None">
+      <File Name="[MS-XMLSS]-190114.pdf" Type="PDF" />
+      <File Name="[MS-XMLSS]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-XMLSTYL">
@@ -2902,6 +3259,10 @@
     <Revision Date="2018-08-28" Version="5.0" Class="None">
       <File Name="[MS-XMLSTYL]-180828.pdf" Type="PDF" />
       <File Name="[MS-XMLSTYL]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="5.0" Class="None">
+      <File Name="[MS-XMLSTYL]-190114.pdf" Type="PDF" />
+      <File Name="[MS-XMLSTYL]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-XPATH">
@@ -2942,6 +3303,10 @@
       <File Name="[MS-XPATH]-180828.pdf" Type="PDF" />
       <File Name="[MS-XPATH]-180828.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-01-14" Version="5.2" Class="None">
+      <File Name="[MS-XPATH]-190114.pdf" Type="PDF" />
+      <File Name="[MS-XPATH]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-XPATHH">
     <Revision Date="2015-01-22" Version="1.0" Class="New" />
@@ -2954,6 +3319,7 @@
     <Revision Date="2018-02-22" Version="1.2" Class="None" />
     <Revision Date="2018-03-23" Version="1.2" Class="None" />
     <Revision Date="2018-08-28" Version="1.2" Class="None" />
+    <Revision Date="2019-01-14" Version="1.2" Class="None" />
   </Book>
   <Book Name="MS-XSLT">
     <Revision Date="2010-03-17" Version="0.1" Class="New" />
@@ -2993,6 +3359,10 @@
     <Revision Date="2018-08-28" Version="5.3" Class="None">
       <File Name="[MS-XSLT]-180828.pdf" Type="PDF" />
       <File Name="[MS-XSLT]-180828.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-14" Version="5.3" Class="None">
+      <File Name="[MS-XSLT]-190114.pdf" Type="PDF" />
+      <File Name="[MS-XSLT]-190114.docx" Type="DOCX" />
     </Revision>
   </Book>
 </Books>
